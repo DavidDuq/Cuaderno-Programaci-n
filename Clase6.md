@@ -1,4 +1,4 @@
-## CLASE 6 : **INTRODUCCIÓN A C**
+## CLASE 6 : **INTRODUCCIÓN A C**      
 ____
 **FECHA** : 18 DE NOVIEMBRE DEL 2022
 ___
